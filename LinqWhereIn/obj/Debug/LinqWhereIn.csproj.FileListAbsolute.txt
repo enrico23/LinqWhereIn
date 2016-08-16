@@ -1,0 +1,5 @@
+C:\Users\eacampora\Desktop\code library\csharp\LinqWhereIn\bin\Debug\LinqWhereIn.exe.config
+C:\Users\eacampora\Desktop\code library\csharp\LinqWhereIn\bin\Debug\LinqWhereIn.exe
+C:\Users\eacampora\Desktop\code library\csharp\LinqWhereIn\bin\Debug\LinqWhereIn.pdb
+C:\Users\eacampora\Desktop\code library\csharp\LinqWhereIn\obj\Debug\LinqWhereIn.exe
+C:\Users\eacampora\Desktop\code library\csharp\LinqWhereIn\obj\Debug\LinqWhereIn.pdb
